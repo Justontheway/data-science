@@ -1,5 +1,6 @@
 #-*- coding:utf-8 -*-
 
+# 参考链接 : http://blog.sciencenet.cn/blog-251664-800766.html
 import numpy as np
 
 
