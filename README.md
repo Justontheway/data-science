@@ -5,4 +5,6 @@
 ## Reference
 * http://old.sebug.net/paper/books/scipydoc/index.html
 
+## examples
+* http://matplotlib.org/gallery.html
 
