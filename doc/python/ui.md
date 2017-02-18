@@ -1,0 +1,7 @@
+## UI
+python有着丰富的界面开发库,缺省安装的Tkinter、wxPython、pyQT4等
+但是他们都需要开发者掌握众多的API和许多细节
+而以traits为基础MVC为思想的TraitUI则能快速实现界面,交互处理数据,而又不需花费过多的精力
+
+### TraitsUI
+* TraitsUI与Traits紧密相连,设计好的继承自HasTraits的类可以直接调用configure_traits方法,系统会使用TraitsUI自动生成一个界面与用户交互修改对象的trait属性
